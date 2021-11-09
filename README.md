@@ -1,5 +1,8 @@
 # 제공받은 서버에 zsh 설치하는 방법
 
+## 0. 파일 서버에 넣기
+`zshrc.back`과 `zsh_install.sh`파일을 `/opt/ml`에 업로드
+
 ## 1. 폰트설정!
 
 ### [vscode](https://velog.io/@kangko05/Vscode-powerlevel10k)
