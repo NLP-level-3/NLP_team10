@@ -2,8 +2,6 @@
 
 ## 1. 폰트설정!
 
------------------------
-
 ### [vscode](https://velog.io/@kangko05/Vscode-powerlevel10k)
 
 `setting -> terminal.integrated.fontFamily -> MesloLGS NF`
@@ -16,11 +14,9 @@
 
 `setting -> Advanced Setings Editor -> Terminal -> User Preferences -> "fontFamily": "MesloLGS NF" 추가`
 
-
+<br>
 
 ## 2. install
-
-------------------------
 
 zsh-autosuggestions 과 zsh-syntax-highlighting이 적용됩니다.
 
